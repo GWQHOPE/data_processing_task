@@ -43,6 +43,12 @@
 
 问题解决代码：think.py
 
+### 应用：Model
+
+​       代码train_model.py和test_model.py运行起来，理解dataloader.py文件中的图像加载以及test_model.py文件中的图像保存。理解图像加载处理保存在模型训练前的作用。
+
+文件夹：Model
+
 ## 读取视频进行取帧, 裁剪, 对齐, 增广处理（Face_process_demo文件夹下）
 
 ### 读取视频进行取帧
